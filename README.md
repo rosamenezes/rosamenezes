@@ -16,6 +16,8 @@
     <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,redux,py,nodejs,vscode,mysql,express,docker,java,sequelize,maven,linux,jest,idea,vscode,git,github,figma&perline=12" />
   </a>
 </p>
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamenezes&langs_count=8&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosamenezes&hide=contribs,prs&theme=dracula)
