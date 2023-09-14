@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8953F7&center=&vCenter=falso&repeat=verdadeiro&width=650&height=65&lines=Ol%C3%A1+sou+o+Guilherme%2C+Bem+vindo!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8953F7&center=falso&vCenter=falso&repeat=verdadeiro&width=650&height=65&lines=Ol%C3%A1+sou+o+Guilherme%2C+Bem+vindo!" alt="Typing SVG" /></a>
 <img src="https://media.licdn.com/dms/image/D4D16AQHPD7Qd72uVAA/profile-displaybackgroundimage-shrink_350_1400/0/1694622367549?e=1700092800&v=beta&t=WyGJZwl96UwGVpEd7W3440MnTUASqzY6hE5nkjSUQpQ" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosamenezes&label=Profile%20views&color=0e75b6&style=flat" alt="rosamenezes" /> </p>
 
