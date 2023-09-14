@@ -18,4 +18,5 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamenezes&langs_count=8&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosamenezes&hide=contribs,prs&theme=dracula)
 
