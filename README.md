@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou o Guilherme</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+sou+o+Guilherme)](https://git.io/typing-svg)
 <img src="https://media.licdn.com/dms/image/D4D16AQHPD7Qd72uVAA/profile-displaybackgroundimage-shrink_350_1400/0/1694622367549?e=1700092800&v=beta&t=WyGJZwl96UwGVpEd7W3440MnTUASqzY6hE5nkjSUQpQ" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosamenezes&label=Profile%20views&color=0e75b6&style=flat" alt="rosamenezes" /> </p>
 
