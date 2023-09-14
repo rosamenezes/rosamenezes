@@ -6,6 +6,7 @@
 <a href="https://instagram.com/menezes8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menezes8g" height="30" width="40" /></a>
 </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=845BE6&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Stacks%3A)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,redux,py,nodejs,vscode,mysql,express,docker,java,sequelize,maven,linux,jest,idea,vscode,git,github,figma&perline=12" />
