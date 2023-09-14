@@ -5,7 +5,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rosamenezes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rosamenezes/" height="30" width="40" /></a>
 <a href="https://instagram.com/menezes8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menezes8g" height="30" width="40" /></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=845BE6&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Stacks%3A)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=845BE6&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Stacks%3A" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://skillicons.dev">
