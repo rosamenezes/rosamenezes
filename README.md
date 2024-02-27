@@ -19,7 +19,10 @@
 </p>
 <br>
 <br>
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamenezes&langs_count=8&theme=transparent)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosamenezes&hide=contribs,prs&theme=transparent)
 
