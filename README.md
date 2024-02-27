@@ -22,7 +22,5 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamenezes&langs_count=8&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosamenezes&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamenezes&langs_count=8&theme=transparent)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosamenezes&show_icons=true&theme=transparent)
 
